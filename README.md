@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello World 👋🌍
+Hello there! I am Guhan. I'm 20 and i come from chennai. I am a student from MIT(India). I'm a web developer and self taught UI/UX designer. I'm currently surfing through front-end technologies and also deep learning ,Machine Learning (which is really awesome 👾). 
 
-<!--
-**Guhan-B/Guhan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+<b>Main Works:</b>
+Vue.js / Nuxt.js 🔰
+Front-end 💒
+UI/UX 📱
+C++ 💻
+Python 🐍
+</pre>
 
-Here are some ideas to get you started:
+## Contact
+<pre>
+📧 <a href="mailto:bkguhan2001@gmail.com">Mail Me</a><br>
+📷 <a href="https://www.instagram.com/_mr_knowhere_/">Instagram</a><br>
+🧶 <a href="">Dribble</a><br>
+🐦 <a href="">Twitter</a><br>
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
