@@ -3,7 +3,7 @@ Hello there! I am Guhan. I'm 20 and i come from chennai. I am a student from MIT
 
 <pre>
 <b>Main Works:</b>
-Vue.js / Nuxt.js 🔰
+Vue.js / Nuxt.js /React.js🔰
 Front-end 💒
 UI/UX 📱
 C++ 💻
