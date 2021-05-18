@@ -3,11 +3,13 @@ Hello there! I am Guhan. I'm 20 and i come from chennai. I am a student from MIT
 
 <pre>
 <b>Main Works:</b>
-Vue.js / Nuxt.js / React.js / Reactnative 🔰
-Front-end 💒
-UI/UX 📱
-C++ 💻
-Python 🐍
+React
+Reactnative
+Node
+REST
+GraphQL
+UI/UX
+Python
 </pre>
 
 ## Contact
