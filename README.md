@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Guhan-B/Guhan-B/main/header.png "Header")]()
-
 ![](https://komarev.com/ghpvc/?username=Guhan-B)
 
 # Hello World 👋
